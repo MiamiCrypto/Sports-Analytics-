@@ -12,6 +12,7 @@ It includes season-level statistics for each player, covering shooting, playmaki
 - `MDC Women's Basketball Stats.csv`: Cleaned dataset of player statistics
 - `notebooks/`: (optional) Jupyter/Colab notebooks for analysis and visualizations
 - `README.md`: Column definitions and project overview
+- `Source of Data`: https://www.mdcathletics.com/sports/wbkb/2024-25/teams/miamidadecollege
 
 ---
 
